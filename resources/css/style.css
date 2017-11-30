@@ -1,0 +1,37 @@
+body{
+  background-color: black;
+  font-family: Verdana;
+}
+
+#show, #tell{
+  text-align: center;
+}
+
+#trademark{
+  text-align: right;
+}
+
+#show h1.banner{
+  font-size: 50px;
+  font-weight: normal;
+}
+
+#tell h1.banner{
+  font-size: 42px;
+  font-weight: 300;
+}
+
+.banner{
+  color: white;
+}
+
+.describe, .trademark{
+  color: gray;
+  font-size: 21px;
+}
+
+.link{
+  color: aquamarine;
+  font-size: 16px;
+  text-decoration: underline;
+}
